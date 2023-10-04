@@ -1,3 +1,4 @@
+![logo](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?resize=1200%2C630)
 <h1 align="center">Hi 👋, I'm Hiruni</h1>
 <h3 align="center">studying software engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOkcOXCNsWN2slvX-Rzue2r0TpsSydUYVaC2V8qV3JQvUKgtSeFyTe27NVNI4tD8Vyno&usqp=CAU">
